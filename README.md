@@ -1,2 +1,2 @@
-# simple_shell
-Simple Shell Project
+# monty
+Monty Project
